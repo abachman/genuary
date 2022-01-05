@@ -1,4 +1,5 @@
 # genuary
+
 sketches in code
 
 ### 2022-01-03
@@ -17,7 +18,9 @@ actually [read the prompt](https://genuary.art/prompts#jan4) today! saw "fidenza
 
 re-read the prompt and saw "next next [Fidenza](https://tylerxhobbs.com/fidenza)" so I went somewhere else. the next next fidenza probably won't be flow fields, i like cellular automata so why not? 
 
-scratch rewrote some ["Langston's Ant"](https://en.wikipedia.org/wiki/Langton%27s_ant) code that i worked on with my son recently so that it would auto-generate rule sets and save everything it drew. lazy so no iteration on palette or cell size. provisions made for fiddling with that stuff, tho. [here's a link to the sketch so you can make your own dumb NFTs or whatever](https://editor.p5js.org/abachman/sketches/5fsl7jhoj).
+scratch rewrote some ["Langston's Ant"](https://en.wikipedia.org/wiki/Langton%27s_ant) code that i worked on with my son recently so that it would auto-generate rule sets and save everything it drew. cellular automata like these are interesting because they may be a closer representation to how the universe is built than anything else that can be summed up in fewer rules than you can count on one hand. the system is turing complete. complex behavior arises from simple rules. future states cannot be predicted without calculating from the present. "undecidability." sounds like fertile ground for future exploration. 
+
+lazy so no iteration on palette or cell size. provisions made for fiddling with that stuff, tho. [here's a link to the sketch so you can make your own dumb NFTs or whatever](https://editor.p5js.org/abachman/sketches/5fsl7jhoj).
 
 ![ant-life-LLLR](https://user-images.githubusercontent.com/13002/148147897-91adeb9a-bf15-401d-a6e2-05aea789c011.png)
 ruleset: LLLR
@@ -34,4 +37,3 @@ ruleset: LRNRR
 ![ant-life-x1-LRLLLLR](https://user-images.githubusercontent.com/13002/148151633-218ca7f5-0e53-41a9-b4d3-d99212e9b783.png)
 ruleset: LRLLLLR
 
-### 2022-01-05
