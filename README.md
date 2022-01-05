@@ -20,6 +20,18 @@ re-read the prompt and saw "next next [Fidenza](https://tylerxhobbs.com/fidenza)
 scratch rewrote some ["Langston's Ant"](https://en.wikipedia.org/wiki/Langton%27s_ant) code that i worked on with my son recently so that it would auto-generate rule sets and save everything it drew. lazy so no iteration on palette or cell size. provisions made for fiddling with that stuff, tho.
 
 ![ant-life-LLLR](https://user-images.githubusercontent.com/13002/148147897-91adeb9a-bf15-401d-a6e2-05aea789c011.png)
+ruleset: LLLR
+
 ![ant-life-NRL](https://user-images.githubusercontent.com/13002/148147910-bf6d722e-fa25-414c-b63d-8400b2520d0e.png)
+ruleset: NRL
+
 ![ant-life-LURLLULL](https://user-images.githubusercontent.com/13002/148147922-92d8b325-2d6d-4e8c-96a8-7f2079f23a60.png)
+ruleset: LURLLULL
+
 ![ant-life-LRNRR](https://user-images.githubusercontent.com/13002/148147959-3b12bf97-1b80-4186-b9d5-26c05be11320.png)
+ruleset: LRNRR
+
+![ant-life-x1-LRLLLLR](https://user-images.githubusercontent.com/13002/148151633-218ca7f5-0e53-41a9-b4d3-d99212e9b783.png)
+ruleset: LRLLLLR
+
+### 2022-01-05
