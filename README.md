@@ -75,4 +75,18 @@ galactic super clusters (full jitter on x,y & rot, color stable)
 
 ![2022-01-05--square--00ffff-40-0 15-0 1-1110-6283--1530](https://user-images.githubusercontent.com/13002/148301659-1d0dbde8-58ce-4d29-882c-ee39c470b9f8.png)
 
+### 2022-01-06
+
+light painting. based on works by my friend [Joshua Penrose](https://joshuapenrose.com/untitled-light-paintings-triptych). "trade"?, nah, "borrow"
+
+[sketch](https://editor.p5js.org/abachman/sketches/jKtcd_X2u)
+
+wanted to play with framed movement. p5js image `filter(BLUR, 4)` is probably a lot slower than a custom shader would be. will have to poke at shaders sometime soon. used the [ccapture](https://peterbeshai.com/blog/2018-10-28-p5js-ccapture/) library to create a video for this one.
+
+- [light painting video .mp4](https://user-images.githubusercontent.com/13002/148457559-3528f0fe-5b1d-49a6-ad5f-96b9e7a58461.mp4)
+
+![light-painting--still-01](https://user-images.githubusercontent.com/13002/148460016-01623ddb-8878-40bb-a3f1-15822e260d18.png)
+![light-painting--still-02](https://user-images.githubusercontent.com/13002/148460049-c002ebf6-47a1-46dc-83ff-8cdc756567e2.png)
+
+
 
