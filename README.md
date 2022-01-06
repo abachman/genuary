@@ -5,6 +5,7 @@ sketches in code.
 - [day 03](#2022-01-03)
 - [day 04](#2022-01-04)
 - [day 05](#2022-01-05)
+- [day 06](#2022-01-06)
 
 ## rules
 
@@ -12,7 +13,7 @@ for me, not for you
 
 1. clean editor.p5js.org window
 1. 400x400 area
-1. still images
+1. ~~still images~~ (broken by day 6)
 1. [link to sketch code](https://editor.p5js.org/abachman/collections/P-ovJH5BB)
 
 ### 2022-01-03
