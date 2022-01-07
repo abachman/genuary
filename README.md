@@ -6,6 +6,7 @@ sketches in code.
 - [day 04](#2022-01-04)
 - [day 05](#2022-01-05)
 - [day 06](#2022-01-06)
+- [day 07](#2022-01-07)
 
 ## rules
 
@@ -88,6 +89,31 @@ wanted to play with framed movement. p5js image `filter(BLUR, 4)` is probably a 
 
 ![light-painting--still-01](https://user-images.githubusercontent.com/13002/148460016-01623ddb-8878-40bb-a3f1-15822e260d18.png)
 ![light-painting--still-02](https://user-images.githubusercontent.com/13002/148460049-c002ebf6-47a1-46dc-83ff-8cdc756567e2.png)
+
+### 2022-01-07
+
+"sol lewitt drawings"
+
+took the rules, left the lines. went with an 'old reliable' random walk painting system. tweakable color and counts.
+
+```
+100 people gather on an empty lot
+each carries one can of paint and should
+  paint the spot they are standing on
+  turn in a random direction
+  step forward
+repeat until 5000 steps have been taken
+```
+
+[sketch](https://editor.p5js.org/abachman/full/yFWAuwlno)
+
+monochrome: 
+
+![sol-lewitt--5000-100-1 2_3-0_20-40_70-80_100](https://user-images.githubusercontent.com/13002/148603288-587a2457-6076-48b6-afa5-bf7f76006cd7.png)
+
+color blasted:
+
+![sol-lewitt--5000-100-1 2_3-0_256-100_100-100_100](https://user-images.githubusercontent.com/13002/148603199-32abcb17-6a5d-481e-9b62-6d7a8564d107.png)
 
 
 
