@@ -35,27 +35,15 @@ actually [read the prompt](https://genuary.art/prompts#jan4) today! saw "fidenza
 
 re-read the prompt and saw "next next [Fidenza](https://tylerxhobbs.com/fidenza)" so I went somewhere else. the next next fidenza probably won't be flow fields, i like cellular automata so why not? 
 
-scratch rewrote some ["Langston's Ant"](https://en.wikipedia.org/wiki/Langton%27s_ant) code that i worked on with my son recently so that it would auto-generate rule sets and save everything it drew. cellular automata like these are interesting because they may be a closer representation to how the universe is built than anything else that can be summed up in fewer rules than you can count on one hand. the system is turing complete. complex behavior arises from simple rules. future states cannot be predicted without calculating from the present. "undecidability." very small changes in the system rules produce wildly different outcomes.
+scratch rewrote some ["Langston's Ant"](https://en.wikipedia.org/wiki/Langton%27s_ant) code that i worked on with my son recently so that it would auto-generate rule sets and save everything it drew. cellular automata like these are interesting because they may be a closer representation to how the universe is built than anything else that can be summed up in fewer rules than you can count on one hand. the system is turing complete. complex behavior arises from simple rules. future states cannot be predicted without calculating from the present. "undecidability." very small changes in the rules produce wildly different outcomes.
 
 sounds like fertile ground for future exploration! 
 
 i'm lazy so no iteration on palette or cell size here. provisions made for fiddling with that stuff, tho. [here's a link to the sketch so you can make your own dumb NFTs or whatever](https://editor.p5js.org/abachman/sketches/5fsl7jhoj).
 
-ruleset: NRL
-
-![ant-life-NRL](https://user-images.githubusercontent.com/13002/148147910-bf6d722e-fa25-414c-b63d-8400b2520d0e.png)
-
 ruleset: LLLR
 
 ![ant-life-LLLR](https://user-images.githubusercontent.com/13002/148147897-91adeb9a-bf15-401d-a6e2-05aea789c011.png)
-
-ruleset: LURLLULL
-
-![ant-life-LURLLULL](https://user-images.githubusercontent.com/13002/148147922-92d8b325-2d6d-4e8c-96a8-7f2079f23a60.png)
-
-ruleset: LRNRR
-
-![ant-life-LRNRR](https://user-images.githubusercontent.com/13002/148147959-3b12bf97-1b80-4186-b9d5-26c05be11320.png)
 
 ruleset: LRLLLLR
 
