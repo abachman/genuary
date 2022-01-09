@@ -110,4 +110,23 @@ color blasted:
 ![sol-lewitt--5000-100-1 2_3-0_256-100_100-100_100](https://user-images.githubusercontent.com/13002/148603199-32abcb17-6a5d-481e-9b62-6d7a8564d107.png)
 
 
+### 2022-01-08
+
+"single curve only"
+
+what if you had a marker that never dried out and an arm that never stopped moving?
+
+go-pro style footage of an epic coloring session
+
+[sketch](https://editor.p5js.org/abachman/sketches/82kNk-PDD)
+
+[moving image .mp4](https://user-images.githubusercontent.com/13002/148667362-fbeec504-9f57-49a2-97a6-227a06298070.mp4)
+
+visible canvas (400x400)
+
+![visible canvas](https://user-images.githubusercontent.com/13002/148667375-e0bd6cac-36e8-44bc-91eb-6de92c553711.png)
+
+full canvas (2000x2000)
+
+![continuous-curve--5177](https://user-images.githubusercontent.com/13002/148667380-9bf3cbbf-1281-44bd-8cbf-f4c58348a96d.jpg)
 
