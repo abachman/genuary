@@ -8,6 +8,7 @@ sketches in code.
 - [day 06](#2022-01-06)
 - [day 07](#2022-01-07)
 - [day 08](#2022-01-08)
+- [day 09](#2022-01-09)
 
 ## rules
 
@@ -131,4 +132,34 @@ visible canvas (400x400)
 full canvas (2000x2000)
 
 ![continuous-curve--5177](https://user-images.githubusercontent.com/13002/148667380-9bf3cbbf-1281-44bd-8cbf-f4c58348a96d.jpg)
+
+### 2022-01-09
+
+a text-based tribute to one of my favorite quotes about programming, by Fred Brooks. i took massive liberties with whitespace here: 
+
+```
+  The programmer, like the poet
+  works only slightly removed
+  from pure thought stuff.
+  They build their castles
+  in the air, from air,
+  creating by exertion
+  of the imagination.
+  Few media of creation
+  are so flexible,
+  so easy to polish and rework,
+  so readily capable of realizing
+  grand conceptual structures.
+  The magic of myth and legend
+  has come true in our time.
+
+Fred Brooks, 
+"The Mythical Man Month"
+```
+
+[sketch](https://editor.p5js.org/abachman/full/1tAwG0BIj)
+
+![air-architects--2022-01-09-02](https://user-images.githubusercontent.com/13002/149052158-87ec8829-91bd-4e61-997b-f84d37470bc6.png)
+
+simple, but the end result of playing with colors, lerping colors (not really possible in HSB), palette generation, moving things, multiple layers, and aliasing artifacts. play is important and most doesn't go anywhere useful. whether this sketch went anywhere useful at all is super debateable :)  
 
