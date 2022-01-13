@@ -10,6 +10,7 @@ sketches in code.
 - [day 08](#2022-01-08)
 - [day 09](#2022-01-09)
 - [day 12](#2022-01-12)
+- [day 13](#2022-01-13)
 
 ## rules
 
@@ -179,4 +180,13 @@ just the circles
 just the lines
 
 ![circle-packing--lines](https://user-images.githubusercontent.com/13002/149267688-e72ad3c1-f214-424d-be21-5d9b708bc1ed.png)
+
+### 2022-01-13
+
+like anytime i'm grasping for something to put on a blank screen, how about conway's game of life?
+
+[sketch](https://editor.p5js.org/abachman/full/y1FrVDp4g)
+
+[moving image .mp4](https://user-images.githubusercontent.com/13002/149409823-356818e9-c11a-40b0-b968-3d9fccaa298b.mp4)
+
 
