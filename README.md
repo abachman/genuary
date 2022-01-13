@@ -9,6 +9,7 @@ sketches in code.
 - [day 07](#2022-01-07)
 - [day 08](#2022-01-08)
 - [day 09](#2022-01-09)
+- [day 12](#2022-01-12)
 
 ## rules
 
@@ -162,4 +163,20 @@ Fred Brooks,
 ![air-architects--2022-01-09-02](https://user-images.githubusercontent.com/13002/149052158-87ec8829-91bd-4e61-997b-f84d37470bc6.png)
 
 simple, but the end result of playing with colors, lerping colors (not really possible in HSB), palette generation, moving things, multiple layers, and aliasing artifacts. play is important and most doesn't go anywhere useful. whether this sketch went anywhere useful at all is super debateable :)  
+
+### 2022-01-12
+
+"packing"
+
+i wanted to see circle packing two ways: just the circles, just the touches. 
+
+[sketch](https://editor.p5js.org/abachman/full/7aDENmg7o) has some fun parameters for initial seeding, spawn rate, growth rate that change the balance of sizes.
+
+just the circles
+
+![circle-packing--circles](https://user-images.githubusercontent.com/13002/149267661-1a36ec98-6bc9-492a-82a3-29b9b5ed9d7b.png)
+
+just the lines
+
+![circle-packing--lines](https://user-images.githubusercontent.com/13002/149267688-e72ad3c1-f214-424d-be21-5d9b708bc1ed.png)
 
