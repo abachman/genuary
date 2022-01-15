@@ -12,6 +12,7 @@ sketches in code.
 - [day 12](#2022-01-12)
 - [day 13](#2022-01-13)
 - [day 14](#2022-01-14)
+- [day 15](#2022-01-15)
 
 ## rules
 
@@ -201,5 +202,18 @@ this one made me feel dirty. both for the integrated qr code and the reference t
 [moving image .mp4](https://user-images.githubusercontent.com/13002/149605874-5b40ec3f-0cf0-4b5a-a53b-167ab40eec82.mp4)
 
 
+### 2022-01-15
+
+"Sand"
+
+i wanted to play with a high-count particle system that could animate, but also keep around 10k+ particles. got that with a background + foreground separation w/ createGraphics for points that have finished moving and particle list for points still in motion.
+
+also needed an interesting movement pattern and stumbled on [lissajous curves](https://en.wikipedia.org/wiki/Lissajous_curve)
+
+[sketch](https://editor.p5js.org/abachman/full/3OubqYGg2)
+
+![sand-tracing--2022-01-15](https://user-images.githubusercontent.com/13002/149640526-b19250d3-2625-429f-9253-69a7badcb4ea.png)
+
+[moving image mp4](https://user-images.githubusercontent.com/13002/149640539-6d5f5b5c-d271-4463-be58-a0a8618f2ba4.mp4)
 
 
