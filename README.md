@@ -11,6 +11,7 @@ sketches in code.
 - [day 09](#2022-01-09)
 - [day 12](#2022-01-12)
 - [day 13](#2022-01-13)
+- [day 14](#2022-01-14)
 
 ## rules
 
@@ -188,5 +189,17 @@ like anytime i'm grasping for something to put on a blank screen, how about conw
 [sketch](https://editor.p5js.org/abachman/full/y1FrVDp4g)
 
 [moving image .mp4](https://user-images.githubusercontent.com/13002/149409823-356818e9-c11a-40b0-b968-3d9fccaa298b.mp4)
+
+### 2022-01-13
+
+"Something you’d never make."
+
+this one made me feel dirty. both for the integrated qr code and the reference to the [environment killing ponzi scheme](https://everestpipkin.medium.com/but-the-environmental-issues-with-cryptoart-1128ef72e6a3) that is NFTs.
+
+[sketch](https://editor.p5js.org/abachman/full/jI2UD0iiN)
+
+[moving image .mp4](https://user-images.githubusercontent.com/13002/149605874-5b40ec3f-0cf0-4b5a-a53b-167ab40eec82.mp4)
+
+
 
 
