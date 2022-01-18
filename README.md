@@ -222,7 +222,7 @@ also needed an interesting movement pattern and stumbled on [lissajous curves](h
 
 ### 2022-01-17
 
-"three colors"
+"three colors" [sketch](https://editor.p5js.org/abachman/full/dRXT5CdFy)
 
 i played with the color wheel, lots of tweaking of color selection, brightness and saturation selection, and motion. also first time playing with p5.js' DOM manipulation tools. handy for controls.
 
