@@ -2,6 +2,8 @@
 
 sketches in code.
 
+- _day 01_
+- _day 02_
 - [day 03](#2022-01-03)
 - [day 04](#2022-01-04)
 - [day 05](#2022-01-05)
@@ -13,6 +15,8 @@ sketches in code.
 - [day 13](#2022-01-13)
 - [day 14](#2022-01-14)
 - [day 15](#2022-01-15)
+- _day 16_
+- [day 17](#2022-01-17)
 
 ## rules
 
@@ -216,4 +220,13 @@ also needed an interesting movement pattern and stumbled on [lissajous curves](h
 
 [moving image mp4](https://user-images.githubusercontent.com/13002/149640539-6d5f5b5c-d271-4463-be58-a0a8618f2ba4.mp4)
 
+### 2022-01-17
+
+"three colors"
+
+i played with the color wheel, lots of tweaking of color selection, brightness and saturation selection, and motion. also first time playing with p5.js' DOM manipulation tools. handy for controls.
+
+didn't make a video because _lazy_.
+
+![color-wheeling--2022-01-17](https://user-images.githubusercontent.com/13002/149856636-3315e546-8ade-4443-967c-5d9619e4a8d5.png)
 
