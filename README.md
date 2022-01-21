@@ -17,6 +17,9 @@ sketches in code.
 - [day 15](#2022-01-15)
 - _day 16_
 - [day 17](#2022-01-17)
+- _day 18_
+- [day 19](#2022-01-19)
+- [day 20](#2022-01-20)
 
 ## rules
 
@@ -230,3 +233,22 @@ didn't make a video because _lazy_.
 
 ![color-wheeling--2022-01-17](https://user-images.githubusercontent.com/13002/149856636-3315e546-8ade-4443-967c-5d9619e4a8d5.png)
 
+
+### 2022-01-19
+
+"use text/typography"
+
+textToPoints + atan2 + color smoosh
+
+[sketch](https://editor.p5js.org/abachman/full/A8toulllC)
+
+[video file](https://user-images.githubusercontent.com/13002/150455964-874dec7f-f913-4e08-a48d-f6054586cb86.mp4)
+
+
+### 2022-01-20
+
+"sea of shapes" -> but i'm going with "shapes of the sea"
+
+[stealing from myself](https://github.com/abachman/genuary/blob/main/offshoots.md#blob-circles--gems--splats) with accidental diatoms
+
+![image of circle splats](https://user-images.githubusercontent.com/13002/150049813-ccbf3c89-8a3b-46ab-993b-c2af17e16af2.png)
